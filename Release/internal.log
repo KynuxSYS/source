@@ -1,0 +1,155 @@
+﻿  Entry.cpp
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(62,135): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(92,44): warning C4099: 'FString': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\unrealengine.h(246,7): message : 'FString' bildirimine bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(92,134): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(92,182): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(92,293): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(973,2): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1179,129): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1183,129): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1212,77): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1231,104): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1238,14): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1251,72): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1560,70): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1927,95): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1928,121): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1929,95): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Canvas.h(1930,121): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(285,1): warning C4005: 'LOBYTE': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(206,1): message : önceki 'LOBYTE' tanımına bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(286,1): warning C4005: 'LOWORD': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(204,1): message : önceki 'LOWORD' tanımına bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(288,1): warning C4005: 'HIBYTE': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(207,1): message : önceki 'HIBYTE' tanımına bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(289,1): warning C4005: 'HIWORD': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(205,1): message : önceki 'HIWORD' tanımına bakın
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(595,12): warning C4244: '=': 'unsigned __int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(600,11): warning C4244: '=': 'unsigned __int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\decryption.h(603,13): warning C4244: '=': 'unsigned __int64' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(31,126): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(35,126): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(40,117): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(170,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(171,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(243,73): warning C4244: 'bağımsız değişken': 'uint64_t' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(246,83): warning C4244: 'bağımsız değişken': 'uint64_t' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(590,19): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(593,16): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1312,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'TArray<AShooterCharacter *>'
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1318,119): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1318,111): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1322,123): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1322,111): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1493,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1495,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1496,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1508,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1526,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1528,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1529,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1538,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1557,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1559,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1560,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1569,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1589,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1591,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1592,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1601,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1620,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1622,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1623,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1632,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1651,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1653,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1654,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1663,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1682,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1684,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1685,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1694,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1712,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1714,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1715,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1724,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1743,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1745,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1746,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1755,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1774,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1776,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1777,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1786,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1805,44): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1807,45): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1808,33): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1817,28): warning C4244: 'bağımsız değişken': 'int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1891,13): warning C4552: '!=': ifade sonucu kullanılmıyor
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1943,71): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1943,62): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2219,38): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2219,22): warning C4244: 'başlatılıyor': 'double' - 'const float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2220,41): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2220,32): warning C4244: 'başlatılıyor': 'double' - 'const float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2318,38): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2318,22): warning C4244: 'başlatılıyor': 'double' - 'const float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2319,41): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2319,32): warning C4244: 'başlatılıyor': 'double' - 'const float' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2139,122): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(1826,12): warning C4101: 'Object': yerel değişken başvurusu kaldırıldı
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2363,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'uintptr_t'
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2365,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'uintptr_t'
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2367,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'State'
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2368,40): warning C4244: '=': '__int64' - 'uintptr_t' dönüşümü; veri kaybı olabilir
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2369,9): warning C4477: 'printf' : '%p' biçim dizesi 'void *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'uintptr_t'
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2383,51): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Entry.cpp(2385,51): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'bağımsız değişken': 'wchar_t' - 'const _Elem' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Size_type=unsigned int,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Size_type=unsigned int,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned int
+          ]
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Decryptor.h(206,13): message : derlenen şablon işlevi 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\Decryptor.h(206,3): message : derlenen şablon işlevi 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]

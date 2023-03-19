@@ -1,0 +1,103 @@
+﻿  Entry.cpp
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(62,135): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Mustafa\Desktop\LiroxMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(93,44): warning C4099: 'FString': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Mustafa\Desktop\LiroxMain\unrealengine.h(246,7): message : 'FString' bildirimine bakın
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(93,134): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Mustafa\Desktop\LiroxMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(93,182): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Mustafa\Desktop\LiroxMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(93,293): warning C4099: 'FLinearColor': tür adı başlangıçta 'class' kullanıyordu şimdi 'struct' kullanıyor
+C:\Users\Mustafa\Desktop\LiroxMain\unrealengine.h(91,7): message : 'FLinearColor' bildirimine bakın
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1074,2): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1284,129): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1288,129): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1317,77): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1336,104): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1343,14): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1356,72): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(1665,70): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(2032,95): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(2033,121): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(2034,95): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Canvas.h(2035,121): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(285,1): warning C4005: 'LOBYTE': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(206,1): message : önceki 'LOBYTE' tanımına bakın
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(286,1): warning C4005: 'LOWORD': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(204,1): message : önceki 'LOWORD' tanımına bakın
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(288,1): warning C4005: 'HIBYTE': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(207,1): message : önceki 'HIBYTE' tanımına bakın
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(289,1): warning C4005: 'HIWORD': makro yeniden tanımlama
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(205,1): message : önceki 'HIWORD' tanımına bakın
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(595,12): warning C4244: '=': 'unsigned __int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(600,11): warning C4244: '=': 'unsigned __int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\decryption.h(603,13): warning C4244: '=': 'unsigned __int64' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(31,126): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(35,126): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(40,117): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(195,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(196,21): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(598,19): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(601,16): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(746,125): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(746,117): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(749,120): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(749,112): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(756,124): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(756,112): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(919,12): warning C4552: '!=': ifade sonucu kullanılmıyor
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(999,71): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(999,62): warning C4244: 'bağımsız değişken': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1064,22): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1306,22): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1355,22): warning C4244: 'başlatılıyor': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1495,41): warning C4305: 'bağımsız değişken': 'double' iken 'float' olarak kesildi
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1394,122): warning C4390: ';': boş denetlenen deyim bulundu; amaçlanan bu muydu?
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(933,12): warning C4101: 'Object': yerel değişken başvurusu kaldırıldı
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1533,41): warning C4244: 'bağımsız değişken': 'uintptr_t' - 'const uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1545,51): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1547,51): warning C4244: 'bağımsız değişken': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=uintptr_t
+          ]
+C:\Users\Mustafa\Desktop\LiroxMain\Entry.cpp(1555,110): warning C4244: 'return': 'LRESULT' - 'int' dönüşümü; veri kaybı olabilir
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(2857,53): warning C4244: 'bağımsız değişken': 'wchar_t' - 'const _Elem' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(2718,1): message : derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.34.31933\include\xstring(2718,37): message : derlenen şablon işlevi 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+C:\Users\Mustafa\Desktop\LiroxMain\Decryptor.h(206,13): message : derlenen şablon işlevi 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Mustafa\Desktop\LiroxMain\Decryptor.h(206,3): message : derlenen şablon işlevi 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]

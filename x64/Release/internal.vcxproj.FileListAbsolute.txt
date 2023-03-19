@@ -1,0 +1,5 @@
+C:\Users\Murat\Downloads\Main-Files\Source\StaffBestingMain\x64\Release\internal.dll
+C:\Users\Mustafa\Desktop\StaffBestingMain\x64\Release\internal.dll
+C:\Users\Mustafa\Desktop\LiroxMain\x64\Release\internal.dll
+C:\Users\LENOVO\Desktop\LiroxMain\x64\Release\internal.dll
+C:\Users\Administrator\Desktop\LiroxMain\x64\Release\internal.dll
