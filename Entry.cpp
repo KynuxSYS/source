@@ -770,11 +770,11 @@ void PostRender(uintptr_t _this, UCanvas* canvas)
 	if (GetAsyncKeyState(VK_INSERT) & 1) menu_opened = !menu_opened; 
 
 	if (Watermark) {
-		canvas->K2_DrawText(L"MENU-INS | discord.gg/sylex", { 49,40 }, { 1.0f,1.0f/*Size*/ }, { 1.0f,0.0f,0.0f,1.0f/*RGBA*/ }, 0.f, { 0,0,0,1 }, { 0,0 }, 0, 0, 0, { 0,0,0,1 });
+		canvas->K2_DrawText(L"MENU-INS | Discord: Kynux#0001", { 49,40 }, { 1.0f,1.0f/*Size*/ }, { 1.0f,0.0f,0.0f,1.0f/*RGBA*/ }, 0.f, { 0,0,0,1 }, { 0,0 }, 0, 0, 0, { 0,0,0,1 });
 	}
 
 
-	if (CWINGui::Window(skCrypt("discord.gg/sylex"), &pos, FVector2D{ 475.0f/*Yatay*/, 400.0f/*Dikey*/ }, menu_opened))
+	if (CWINGui::Window(skCrypt("Discord: Kynux#0001"), &pos, FVector2D{ 475.0f/*Yatay*/, 400.0f/*Dikey*/ }, menu_opened))
 	{
 		//Simple Tabs
 		static int tabss = 0;
